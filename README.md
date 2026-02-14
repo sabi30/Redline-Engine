@@ -1,4 +1,4 @@
-# # $${\color{red}Redline \space Engine}$$
+# # $${\color{red}Redline}$$ Engine
 **The standard for high-performance, Linux-prioritized game development.**
 
 Redline Engine is a modern, cross-platform game engine designed to provide **low-level control** through a **high-level interface**. While it aims for the future of technology, it maintains a core philosophy of hardware efficiency and deep Linux integration.
