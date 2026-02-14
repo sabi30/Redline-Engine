@@ -1,4 +1,8 @@
-# $${\color{#8B0000} \mathsf{Redline}}$$ Engine
+<p align="center">
+  <img src="assets/Redline3DLOGO.png" height="200" alt="Redline Engine Logo">
+</p>
+
+<h1 align="center">Redline Engine</h1>
 **The standard for high-performance, Linux-prioritized game development.**
 
 Redline Engine is a modern, cross-platform game engine designed to provide **low-level control** through a **high-level interface**. While it aims for the future of technology, it maintains a core philosophy of hardware efficiency and deep Linux integration.
