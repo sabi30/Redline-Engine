@@ -31,4 +31,4 @@ Developed by **Sabi** ([@sabi30](https://github.com/sabi30)).
 *This is a custom project developed for passion and performance.*
 
 ## Links
-Redline Club ( main Server ): [![Discord](https://img.shields.io/discord/116909754526441075?label=Redline%20Community&color=B22222&logo=discord&logoColor=white)](https://discord.gg/VgBt7uBCx)
+Redline Club ( main Server ): [![Discord](https://img.shields.io/discord/1169097545264410755?label=Redline%20Community&color=B22222&logo=discord&logoColor=white)](https://discord.gg/VgBt7uBCx)
