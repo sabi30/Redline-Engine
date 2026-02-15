@@ -29,3 +29,6 @@ Redline Engine is a modern, cross-platform game engine designed to provide **low
 ## Developer
 Developed by **Sabi** ([@sabi30](https://github.com/sabi30)). 
 *This is a custom project developed for passion and performance.*
+
+## Links
+Redline Club ( main Server ): [![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Redline%20Community&color=B22222&logo=discord&logoColor=white)](https://discord.gg/VgBt7uBCx)
