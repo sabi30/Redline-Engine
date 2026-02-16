@@ -15,9 +15,9 @@ Redline Engine is a modern, cross-platform game engine designed to provide **low
 | Component | Engine Native | External Support |
 | :--- | :--- | :--- |
 | **Graphics** | **Axon** (Redline Multi Rendering Wrapper) | Vulkan, DX12, Metal, OpenGL |
-| **Physics** | **RFRF** (Redline Fast Physics Foundation) | NVIDIA PhysX |
+| **Physics** | **Obsidian** (Redline Fast Physics Foundation) | NVIDIA PhysX |
 | **Math** | **MLCF** (Math Library Compute Foundation) | — |
-| **Audio** | **RMMS** (Redline Multi Media Sounds) | miniAudio |
+| **Audio** | **RedAudio** (Redline Multi Media Sounds) | miniAudio |
 | **Scripting** | C++, Lua | — |
 | **Assets** | Assimp (3D), stb (Images) | — |
 
